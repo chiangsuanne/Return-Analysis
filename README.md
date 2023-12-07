@@ -53,7 +53,7 @@ View dynamic [dashboard](https://public.tableau.com/views/ReturnAnalysis_1690955
 
 ![image](https://github.com/chiangsuanne/Return-Analysis/assets/108243961/4c082228-426d-4dff-94c1-0932aade035a)
 
-## Project Insight
+## Executive Summary
 ### Conclusion
 In Conclusion, this Superstore is grappling with a substantial return rate that poses a significant threat to profitability.  
 
