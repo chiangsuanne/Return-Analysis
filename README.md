@@ -3,7 +3,7 @@
 ### Company Overview
 The Superstore is a leading retail company that offers a wide range of products to customers. With a significant online presence, the Superstore has been facing challenges related to a high number of returned orders, impacting customer satisfaction and operational efficiency.
 
-### Project Overview
+### Objective
 The project aims to analyze and address the issue of high return rates at the Superstore. By conducting a comprehensive analysis, I identified the root causes of returns and developed a Tableau dashboard to present actionable insights to the CEO for informed decision-making.
 
 ## Data Set
